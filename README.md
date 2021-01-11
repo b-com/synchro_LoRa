@@ -42,7 +42,9 @@ required package : numpy
 - Install pipenv with pip:
     $ pip3 install --user pipenv
 
-- Install dependencies
+- Install dependencies:
+```
     $ pipenv --python 3.7
     $ pipenv shell
     $ pipenv install
+```
